@@ -1,0 +1,36 @@
+{
+    "dialog_nodes": [
+      {
+        "conditions": "#Greeting",
+        "output": {
+          "generic": [
+            {
+              "response_type": "text",
+              "values": [
+                {
+                  "text": "Hello! How can I assist you today?"
+                }
+              ]
+            }
+          ]
+        },
+        "title": "Greet User"
+      },
+      {
+        "conditions": "#SymptomInquiry",
+        "output": {
+          "generic": [
+            {
+              "response_type": "text",
+              "values": [
+                {
+                  "text": "It seems you're inquiring about a symptom. Please provide more details."
+                }
+              ]
+            }
+          ]
+        },
+        "title": "Inquire About Symptoms"
+      }
+    ]
+  }

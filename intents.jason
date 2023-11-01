@@ -1,0 +1,14 @@
+{
+    "intents": [
+      {
+        "intent": "Greeting"
+      },
+      {
+        "intent": "SymptomInquiry"
+      },
+      {
+        "intent": "TreatmentInfo"
+      }
+    ]
+  }
+  

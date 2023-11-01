@@ -1,0 +1,18 @@
+{
+    "entities": [
+      {
+        "entity": "symptoms",
+        "values": [
+          {
+            "value": "headache"
+          },
+          {
+            "value": "fever"
+          },
+          {
+            "value": "cough"
+          }
+        ]
+      }
+    ]
+  }
